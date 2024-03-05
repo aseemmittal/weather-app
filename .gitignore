@@ -1,0 +1,10 @@
+node_modules/
+data/
+.DS_Store
+eslintReport.html
+detailedEslintReport.html
+coverage/
+.nyc_output/
+.vscode
+/.vs
+.env
